@@ -1,7 +1,6 @@
 from customtkinter import *
 import customtkinter as ctk
 from tkinter import *
-import subprocess
 import json
 import requests
 import CTkMessagebox
