@@ -19,3 +19,10 @@ python3 main.py
 
 ⚠ Note: There is no  executable files yet.
 If you want to test the app, you'll need to build it from the source code.
+
+## Inspiration
+
+This weather app was inspired by https://github.com/DariusLukasukas/nextjs-weather-app. I incorporated some UI ideas into my own small version.
+
+# Author
+- Moritz344
