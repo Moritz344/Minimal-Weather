@@ -26,3 +26,5 @@ This weather app was inspired by https://github.com/DariusLukasukas/nextjs-weath
 
 # Author
 - Moritz344
+  
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W61324M0)
